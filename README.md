@@ -1,1 +1,1 @@
-# My_Recipe
+# My_Recipe A recipe project typically involves the collection, development, or presentation of a variety of recipes, often with a specific theme or goal in mind. It might include creating new dishes, documenting family favorites, or exploring cuisines from different cultures. The goal is usually to share the experience of cooking or to showcase culinary creativity
